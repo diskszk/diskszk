@@ -8,6 +8,7 @@ I also do server-side work in Node.js.
 [blog-site](https://blog-cfq.pages.dev)  
 [qiita](https://qiita.com/diskszk)  
 [zenn](https://zenn.dev/su_chan)  
+[Cosense](https://scrapbox.io/diskszk)  
 
 ## Activities
 <div align="left"> 
