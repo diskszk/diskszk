@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 I'm **diskszk** - I'm a frontend developer.  
-I am interested in testing and design.
+I am interested in testing and design.  
+I also do server-side work in Node.js.
 
 ## Link
 [blog-site](https://blog-cfq.pages.dev)  
